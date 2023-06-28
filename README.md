@@ -1,0 +1,1 @@
+# mutli_copies_16S_rRNA
